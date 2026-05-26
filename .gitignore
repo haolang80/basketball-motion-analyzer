@@ -1,4 +1,5 @@
 # 虚拟环境
+basketball_env/
 venv/
 env/
 ENV/
@@ -13,7 +14,7 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# 大文件/数据
+# 大文件
 *.mp4
 *.avi
 *.mov
